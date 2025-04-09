@@ -1,4 +1,2 @@
 Muse Mesh Pvt Ltd.
-  - We make LLMs and Image Generation models available
-  to everyone with one subscription! Android, iOS &
-  web apps coming soon! 
+  - LLMs, Image Generation Models, Video Generation Models, Model orchestration, Agents & lots more available to everyone with one subscription! Get the apps from App Store or Play Store. Also access via web on https://musemesh.ai
