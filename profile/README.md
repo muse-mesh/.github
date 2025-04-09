@@ -6,6 +6,6 @@
 - 🤑 Free credits to access models every day! Learn, Create, Innovate.
 - 🚀 Model Orchestration, Agents & Lots More only with one subscription.
 - 🍎 Get the app from [Apple App Store](https://apps.apple.com/in/app/mume-ai/id6523427150).
-- 📱 Get the app from [Google Play Store](https://play.google.com/store/apps/details?id=ai.musemesh.mume)
-- 🖥️ Access on any desktop/laptop via web on https://musemesh.ai
+- 📱 Get the app from [Google Play Store](https://play.google.com/store/apps/details?id=ai.musemesh.mume).
+- 🖥️ Access on any desktop/laptop via web on https://musemesh.ai ☺️
 
