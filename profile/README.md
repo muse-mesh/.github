@@ -1,11 +1,26 @@
-## Muse Mesh - Mume AI
+## Muse Mesh
 
-**LLMs & There Agents**
+Open infrastructure for self-hosted AI agents.
 
-- 🤖 200+ Text Generation Models, Image Generation Models, Video Generation Models.
-- 🤑 Free credits to access models every day! Learn, Create, Innovate.
-- 🚀 Model Orchestration, Agents & Lots More only with one subscription.
-- 🍎 Get the app from [Apple App Store](https://apps.apple.com/in/app/mume-ai/id6523427150).
-- 📱 Get the app from [Google Play Store](https://play.google.com/store/apps/details?id=ai.musemesh.mume).
-- 🖥️ Access on any desktop/laptop via web on https://musemesh.ai ☺️
+We build the boring, load-bearing parts of running agents in production —
+permissions, audit trails, MCP, and skills — and we open-source them.
 
+### Projects
+
+**[mu](https://github.com/muse-mesh/mu)** — Self-hosted AI agent framework.
+Permission modes, audit logging, MCP support. Runs on your machine, in Docker,
+or on a Raspberry Pi.
+
+**[phoebe](https://github.com/muse-mesh/phoebe)** — Self-hosted AI agent you talk
+to on Telegram. 850+ skills, voice in and out, full tool access, layered security.
+
+**[mume-mcp-servers](https://github.com/muse-mesh/mume-mcp-servers)** — MCP servers
+exposing data and tools to Claude, Codex and other MCP clients.
+
+**[mume-workflows](https://github.com/muse-mesh/mume-workflows)** — Workflow
+automation and pipelines for video, audio and AI.
+
+### Mume AI
+
+Our consumer app — 200+ models on one subscription — is live and in maintenance.
+[musemesh.ai](https://musemesh.ai) · [iOS](https://apps.apple.com/in/app/mume-ai/id6523427150) · [Android](https://play.google.com/store/apps/details?id=ai.musemesh.mume)
